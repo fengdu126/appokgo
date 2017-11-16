@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/fengdu126/appokgo/blob/master/appokgo.ipa?raw=true</string>
+					<string>https://raw.githubusercontent.com/fengdu126/appokgo/master/appokgo.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
